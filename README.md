@@ -1,0 +1,2 @@
+# semikong
+LLM semiconductor
