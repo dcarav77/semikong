@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs and debugging
+*.log
+*.out
+*.err
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Python package artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Poetry
+poetry.lock
+.pdm.toml
+
+# Docker
+*.dockerignore
+
+# Model weights and checkpoints
+model/
+weights/
+*.ckpt
+*.pth
+*.pt
+
+# Hugging Face cache
+cache/
+*.transformers_cache/
+*.huggingface/
+
+# Temporary files and directories
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
